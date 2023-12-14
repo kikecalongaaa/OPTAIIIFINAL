@@ -1,0 +1,15 @@
+C:\Users\Calonga\Downloads\optativoIIIFinal\optativoIIIFinal\service\bin\Debug\net6.0\Servicios.deps.json
+C:\Users\Calonga\Downloads\optativoIIIFinal\optativoIIIFinal\service\bin\Debug\net6.0\Servicios.dll
+C:\Users\Calonga\Downloads\optativoIIIFinal\optativoIIIFinal\service\bin\Debug\net6.0\Servicios.pdb
+C:\Users\Calonga\Downloads\optativoIIIFinal\optativoIIIFinal\service\bin\Debug\net6.0\infra.dll
+C:\Users\Calonga\Downloads\optativoIIIFinal\optativoIIIFinal\service\bin\Debug\net6.0\infra.pdb
+C:\Users\Calonga\Downloads\optativoIIIFinal\optativoIIIFinal\service\obj\Debug\net6.0\Servicios.csproj.AssemblyReference.cache
+C:\Users\Calonga\Downloads\optativoIIIFinal\optativoIIIFinal\service\obj\Debug\net6.0\Servicios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Calonga\Downloads\optativoIIIFinal\optativoIIIFinal\service\obj\Debug\net6.0\Servicios.AssemblyInfoInputs.cache
+C:\Users\Calonga\Downloads\optativoIIIFinal\optativoIIIFinal\service\obj\Debug\net6.0\Servicios.AssemblyInfo.cs
+C:\Users\Calonga\Downloads\optativoIIIFinal\optativoIIIFinal\service\obj\Debug\net6.0\Servicios.csproj.CoreCompileInputs.cache
+C:\Users\Calonga\Downloads\optativoIIIFinal\optativoIIIFinal\service\obj\Debug\net6.0\Servicios.csproj.CopyComplete
+C:\Users\Calonga\Downloads\optativoIIIFinal\optativoIIIFinal\service\obj\Debug\net6.0\Servicios.dll
+C:\Users\Calonga\Downloads\optativoIIIFinal\optativoIIIFinal\service\obj\Debug\net6.0\refint\Servicios.dll
+C:\Users\Calonga\Downloads\optativoIIIFinal\optativoIIIFinal\service\obj\Debug\net6.0\Servicios.pdb
+C:\Users\Calonga\Downloads\optativoIIIFinal\optativoIIIFinal\service\obj\Debug\net6.0\ref\Servicios.dll

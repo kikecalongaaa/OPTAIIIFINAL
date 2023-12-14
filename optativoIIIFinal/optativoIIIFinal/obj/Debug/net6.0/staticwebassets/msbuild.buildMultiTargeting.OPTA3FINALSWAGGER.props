@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\OPTA3FINALSWAGGER.props" />
+</Project>
